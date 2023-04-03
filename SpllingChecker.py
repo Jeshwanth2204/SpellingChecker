@@ -51,12 +51,3 @@ back.place(x =158,y = 173)
 
 
 root.mainloop()
-
-
-
-
-
-
-
-
-
